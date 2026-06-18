@@ -91,11 +91,7 @@ This code is licensed under the MIT License. See the LICENSE file for details.
 
 Citation
 
-If you use this code in your research, please cite:
-
-Okeke, P.C., & Ugwu, P.I. (2026). Socioeconomic and Geographic Determinants of Neonatal Mortality in Nigeria: A Cross-Sectional Analysis of the 2024 Demographic and Health Survey. Royal Society Open Science.
-
-
+If you use this code in your research, please cite the associated manuscript
 
 Contact
 
