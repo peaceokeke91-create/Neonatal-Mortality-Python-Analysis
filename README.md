@@ -91,7 +91,7 @@ This code is licensed under the MIT License. See the LICENSE file for details.
 
 Citation
 
-If you use this code in your research, please cite the associated manuscript
+If you use this code in your research, please cite the associated manuscript.
 
 Contact
 
