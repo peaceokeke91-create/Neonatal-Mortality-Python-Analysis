@@ -2,7 +2,7 @@ Neonatal Mortality Determinants in Nigeria
 
 Analysis code for the manuscript:
 
-"Socioeconomic and Geographic Determinants of Neonatal Mortality in Nigeria: A Cross-Sectional Analysis of the 2024 Demographic and Health Survey"
+"Socioeconomic and Geographic Determinants of Neonatal Mortality in Nigeria: A Cross-Sectional Analysis of the 2024 Nigeria Demographic and Health Survey"
 
 Peace Chinenye Okeke and Precious Ifeoma Ugwu
 
@@ -15,7 +15,7 @@ This repository contains the complete Python analysis code used to produce all r
 Repository Contents
 
 File Description
-Neonatal Mortality 2024.ipynb Main Jupyter notebook with all analysis code
+NEONATAL_MORTALITY_updated.ipynb Main Jupyter notebook with all analysis code
 Figure1_NMR_by_zone.png Bar chart: Neonatal mortality rate by geopolitical zone
 Figure2_concentration_curve.png Concentration curve showing wealth-related inequality
 requirements.txt Python package dependencies
@@ -23,7 +23,7 @@ requirements.txt Python package dependencies
 
 Requirements
 
-· Python 3.11.0
+· Python 3.14.6
 · Packages listed in requirements.txt
 
 Install dependencies:
@@ -73,13 +73,16 @@ Results Summary
 
 The analysis produces:
 
-· Table 1: Sociodemographic characteristics of the study population (n = 101,156)
-· Table 2: Distribution of socioeconomic indicators by neonatal death outcome
+· Table 1: Sociodemographic characteristics of the study population (n = 25,872)
+· Table 2: Distribution of explanatory variables by neonatal death outcome
 · Table 3: Neonatal mortality rate by geopolitical zone and place of residence
 · Table 4: Bivariable survey-weighted logistic regression (crude odds ratios)
 · Table 5: Multivariable survey-weighted logistic regression (adjusted odds ratios)
-· Figure 1: Bar chart of NMR by geopolitical zone
+. Table 6: Decomposition of the gap in neonatal mortality between North West and South South
+. Table 7: Decomposition of the gap in neonatal mortality between rural and urban areas
+· Figure 1: Bar chart of NMR by geopolitical zone and place of residence
 · Figure 2: Concentration curve showing wealth-related inequality
+. Figure 3: Decomposition of the gap in neonatal mortality between North West and South South zones
 
 
 
