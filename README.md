@@ -23,7 +23,7 @@ requirements.txt Python package dependencies
 
 Requirements
 
-· Python 3.14.6
+· Python 3.11.0
 · Packages listed in requirements.txt
 
 Install dependencies:
